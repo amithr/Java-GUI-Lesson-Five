@@ -11,7 +11,7 @@ package com.mycompany.lessonfive;
 public class LessonFive {
 
     public static void main(String[] args) {
-        MainWindow frame = new MainWindow();
+        SimpleTabbedApp frame = new SimpleTabbedApp();
         frame.setVisible(true);
     }
 }
